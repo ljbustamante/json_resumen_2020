@@ -1394,7 +1394,203 @@
         },
         "historias": [
             {
-                "fecha": "/6/2020", 
+                "fecha": "2/6/2020", 
+                "titulo": "REABREN PARCIALMENTE RESTAURANTES Y CAFÉS EN PARÍS", 
+                "descripcion": "La ciudad parisina retomó parte de su vida anterior a la cuarentena con la reapertura parcial de cafés y restaurantes. El ayuntamiento dio la autorización, pero solo para las aceras. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "3/6/2020", 
+                "titulo": "SE REANUDAN LOS EJERCICIOS EN VARIOS DISTRITOS DEL PERÚ", 
+                "descripcion": "Portando mascarillas, varias personas retomaron hoy la actividad física. Se autorizó la práctica de hasta siete disciplinas en la vía pública. (ESPECIAL)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "8/6/2020", 
+                "titulo": "RINDIERON HOMENAJE A MÉDICOS MUERTOS POR COVID-19", 
+                "descripcion": "El presidente Vizcarra rindió homenaje a los médicos peruanos que fallecieron enfrentando el coronavirus, por lo que los consideró “héroes de la salud”.\nAcompañado del decano del Colegio Médico del Perú (CMP), el mandatario realizó este homenaje en el Día de la Medicina Intensiva. “Nuestra más grande admiración y agradecimiento a quienes dieron su vida para salvar a muchos peruanos”, escribió Vizcarra en su homenaje.\nEl jefe del Estado recorrió las instalaciones de la institución, en Miraflores, donde se colocaron las fotografías de los médicos fallecidos durante la pandemia del coronavirus. Hasta el momento 51 médicos han fallecido por el COVID-19 en el Perú, tras el deceso de otro médico que trabajaba en un centro de salud mental comunitario en Lima Norte. (POLÍTICA)", 
+                "imagen": {
+                    "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JDFV472UFVBXTKF4BFMBXJVPDM.jpeg",
+                    "caption": "El presidente Vizcarra rindió homenaje a los médicos peruanos que fallecieron enfrentando el coronavirus, por lo que los consideró “héroes de la salud”. Acompañado del decano del Colegio Médico del Perú (CMP), el mandatario realizó este homenaje en el Día de la Medicina Intensiva. “Nuestra más grande admiración y agradecimiento a quienes dieron su vida para salvar a muchos peruanos”, escribió Vizcarra en su homenaje. El jefe del Estado recorrió las instalaciones de la institución, en Miraflores, donde se colocaron las fotografías de los médicos fallecidos durante la pandemia del coronavirus. Hasta el momento 51 médicos han fallecido por el COVID-19 en el Perú, tras el deceso de otro médico que trabajaba en un centro de salud mental comunitario en Lima Norte. (POLÍTICA) ",
+                    "id": "JDFV472UFVBXTKF4BFMBXJVPDM"
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "9/6/2020", 
+                "titulo": "HAY 5.738 FALLECIDOS Y MÁS DE 203 MIL INFECTADOS", 
+                "descripcion": "El Minsa informó que, a la fecha, hay 203.736 casos confirmados de COVID-19. Precisó que 9.903 están hospitalizados, de estos 1.077 están en UCI con ventilación mecánica. (ESPECIAL) ", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "10/6/2020", 
+                "titulo": "EE.UU. SUPERA LOS 112.800 MUERTOS", 
+                "descripcion": "EE.UU. alcanzó cifra de 1.999.313 casos confirmados de coronavirus y la de 112.833 fallecidos, de acuerdo con el recuento independiente de la Universidad Johns Hopkins. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "14/6/2020", 
+                "titulo": "ORACIÓN POR LAS ALMAS DE LAS VÍCTIMAS DEL CORONAVIRUS", 
+                "descripcion": "El Arzobispado de Lima ofreció una misa por todos los fallecidos a causa del COVID-19. Familiares enviaron fotos de sus seres queridos. (PAÍS)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "15/6/2020", 
+                "titulo": "REINO UNIDO GANA CONTRATO E INVERTIRÁ S/7.000 MILLONES", 
+                "descripcion": "Su propuesta ganó el proceso para suscribir el contrato por el cual se harán obras de reconstrucción en las zonas afectadas por el Fenómeno El Niño Costero. (POLÍTICA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "16/6/2020", 
+                "titulo": "INCAUTAN MÁS DE 50 TONELADAS DE MEDICINAS", 
+                "descripcion": "La PNP incautó esa cantidad en un almacén clandestino de la cuadra 8 del jirón Andahuaylas, en el Cercado de Lima. (ESPECIAL)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "17/6/2020", 
+                "titulo": "PIZARRO ANUNCIÓ SU RETIRO AL FINAL DE LA TEMPORADA", 
+                "descripcion": "A los 41 años, el delantero peruano Claudio Pizarro se despide del fútbol. Pizarro es considerado como el futbolista peruano más exitoso a nivel de clubes. (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "19/6/2020", 
+                "titulo": "PERÚ: 135.520 PACIENTES RECUPERADOS FUERON DADOS DE ALTA", 
+                "descripcion": "Minsa informó que estos pacientes cumplieron su período de aislamiento domiciliario. También detalló que a la fecha los contagiados por coronavirus subieron a 247.925. (POLÍTICA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "21/6/2020", 
+                "titulo": "BRASIL ES EL PRIMER PAÍS DE AMÉRICA LATINA CON 50.000 MUERTES", 
+                "descripcion": "Brasil registró 632 nuevos fallecidos diarios y alcanzó los 50.608 decesos, a poco más de tres meses de la confirmación de la primera muerte en el país. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "22/6/2020", 
+                "titulo": "GALERÍAS COMERCIALES DE GAMARRA REABREN SUS PUERTAS", 
+                "descripcion": "Alrededor de 115 galerías abrieron sus tiendas en el emporio comercial de Gamarra tras el decreto aprobado por el Ejecutivo. A vísperas de cumplir 100 días cerrado para evitar la propagación del COVID-19, el emporio comercial ubicado en La Victoria volvió a recibir visitantes en medio de la cuarentena.\nPara el inicio de actividades se implementaron protocolos sanitarios y medidas de seguridad en las más de 200 galerías que conforman el emporio comercial. Dichas medidas se aplicaron tanto al ingreso de compradores como al momento de adquirir prendas.\n“Para conglomerados se está considerando el 50% del aforo y la distancia social es de 1.5 m. Asimismo, deben considerar estaciones de lavado de manos en sitios estratégicos, así como la desinfección del calzado”, explicó un coordinador del Programa Nacional de Diversificación Productiva. (ECONOMÍA)", 
+                "imagen": {
+                    "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/7Q3CL6XN6RBFDEC3HD2OBNMQLY.jpg",
+                    "caption": "Alrededor de 115 galerías abrieron sus tiendas en el emporio comercial de Gamarra tras el decreto aprobado por el Ejecutivo. A vísperas de cumplir 100 días cerrado para evitar la propagación del COVID-19, el emporio comercial ubicado en La Victoria volvió a recibir visitantes en medio de la cuarentena.Para el inicio de actividades se implementaron protocolos sanitarios y medidas de seguridad en las más de 200 galerías que conforman el emporio comercial. Dichas medidas se aplicaron tanto al ingreso de compradores como al momento de adquirir prendas. “Para conglomerados se está considerando el 50% del aforo y la distancia social es de 1.5 m. Asimismo, deben considerar estaciones de lavado de manos en sitios estratégicos, así como la desinfección del calzado”, explicó un coordinador del Programa Nacional de Diversificación Productiva. (ECONOMÍA)",
+                    "id": "7Q3CL6XN6RBFDEC3HD2OBNMQLY"
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "22/6/2020", 
+                "titulo": "FALLECE ENRIQUE CASARETTO, GLORIA DEL FÚTBOL PERUANO", 
+                "descripcion": "Víctima de una fibrosis pulmonar, murió el ex delantero de Universitario de Deportes, Sporting Cristal y la selección peruana, Enrique Casaretto. (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "23/6/2020", 
+                "titulo": "SE CUMPLEN 100 DÍAS DE CUARENTENA", 
+                "descripcion": "El pasado 16 de marzo, hace exactamente 100 días, el presidente Vizcarra anunció la instauración del estado de emergencia a nivel nacional. (ESPECIAL)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "24/6/2020", 
+                "titulo": "EE.UU. REGISTRA 35.909 CONTAGIOS EN UN DÍA", 
+                "descripcion": "Asimismo, alcanzó la cifra de 2.378.648 casos confirmados de coronavirus y de 121.932 fallecidos, dice el recuento independiente de la Universidad Johns Hopkins. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "27/6/2020", 
+                "titulo": "FALLECE LINDA CRISTAL, ACTRIZ DE “EL GRAN CHAPARRAL”", 
+                "descripcion": "La actriz dio vida a Victoria Cannon en la exitosa serie de la NBC, papel que le permitió ganar el Globo de Oro. Murió a los 89 años. (LUCES)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "29/6/2020", 
+                "titulo": "EQUIPO ‘GRONE’ ANUNCIÓ TRES CASOS DE COVID-19", 
+                "descripcion": "El club Alianza Lima informó los resultados de sus pruebas moleculares tras los exámenes recientes a futbolistas, cuerpo técnico, directivos y otros colaboradores del primer equipo. (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            }
+        ]
+    }, 
+    "julio": {
+        "imagen": {
+            "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/Y7ZTR7JSNNCPZFTD3RSROYM2ME.jpg",
+            "caption": "Muere el legendario rockero peruano Gerardo Manuel. (Foto: Fidel Carrillo)",
+            "id": "Y7ZTR7JSNNCPZFTD3RSROYM2ME"
+        },
+        "historias": [
+        {
+                "fecha": "/7/2020", 
                 "titulo": "", 
                 "descripcion": "", 
                 "imagen": {
@@ -1405,7 +1601,7 @@
                 "url": ""
             },
             {
-                "fecha": "/6/2020", 
+                "fecha": "/7/2020", 
                 "titulo": "", 
                 "descripcion": "", 
                 "imagen": {
@@ -1417,22 +1613,159 @@
             }
         ]
     }, 
-    "julio": {
-
-    }, 
     "agosto": {
-
+        "imagen": {
+            "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UEUHBTX3HRF2HCRQ6CENJWESLY.jpg",
+            "caption": "Presidente Vizcarra convoca a elecciones generales. (Foto: Presidencia)",
+            "id": "UEUHBTX3HRF2HCRQ6CENJWESLY"
+        },
+        "historias": [
+        {
+                "fecha": "/8/2020", 
+                "titulo": "", 
+                "descripcion": "", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "/8/2020", 
+                "titulo": "", 
+                "descripcion": "", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            }
+        ]
     }, 
     "setiembre": {
-
+        "imagen": {
+            "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MLZMPW6BTRGFNIVRLKLTFW54LU.jpg",
+            "caption": "Recorrido por el Cono Norte de Lima en el primer domingo sin restricción de salidas. (Foto: Violeta Ayasta)",
+            "id": "MLZMPW6BTRGFNIVRLKLTFW54LU"
+        },
+        "historias": [
+        {
+                "fecha": "/9/2020", 
+                "titulo": "", 
+                "descripcion": "", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "/9/2020", 
+                "titulo": "", 
+                "descripcion": "", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            }
+        ]
     }, 
     "octubre": {
-
+        "imagen": {
+            "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/SZC2OZHIOVERJFLOQRDOXJHC4M.jpg",
+            "caption": "Actor peruano Ricardo Blume murió a los 87 años. (Foto: Nancy Chapell)",
+            "id": "SZC2OZHIOVERJFLOQRDOXJHC4M"
+        },
+        "historias": [
+        {
+                "fecha": "/10/2020", 
+                "titulo": "", 
+                "descripcion": "", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "/10/2020", 
+                "titulo": "", 
+                "descripcion": "", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            }
+        ]
     }, 
     "noviembre": {
-
+        "imagen": {
+            "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/Z75HUVTIVNE7FHB5JPTMD3GRNY.jpg",
+            "caption": "Manifestantes y policías se enfrentan en el cruce en el Centro de Lima el 12 de noviembre. (Foto: Hugo Curotto)",
+            "id": "Z75HUVTIVNE7FHB5JPTMD3GRNY"
+        },
+        "historias": [
+        {
+                "fecha": "/11/2020", 
+                "titulo": "", 
+                "descripcion": "", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "/11/2020", 
+                "titulo": "", 
+                "descripcion": "", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            }
+        ]
     }, 
     "diciembre": {
-
+        "imagen": {
+            "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/FNB4YSFYTBA67G5N4AHT3MNBQA.jpg",
+            "caption": "Fans se despiden del fallecido crack italiano Paolo Rossi. (Foto: AFP)",
+            "id": "FNB4YSFYTBA67G5N4AHT3MNBQA"
+        },
+        "historias": [
+        {
+                "fecha": "/12/2020", 
+                "titulo": "", 
+                "descripcion": "", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "/12/2020", 
+                "titulo": "", 
+                "descripcion": "", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            }
+        ]
     }
 }
