@@ -2530,9 +2530,9 @@
         },
         "historias": [
         {
-                "fecha": "/10/2020", 
-                "titulo": "", 
-                "descripcion": "", 
+                "fecha": "11/10/2020", 
+                "titulo": "RR.EE: “MÁS DE 42 MIL COMPATRIOTAS HAN RETORNADO A CASA”", 
+                "descripcion": "El canciller Mario López Chávarri detalló que se invirtieron cerca de 29 millones de soles para el retorno de los peruanos. (POLÍTICA)", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
@@ -2541,9 +2541,306 @@
                 "url": ""
             },
             {
-                "fecha": "/10/2020", 
-                "titulo": "", 
-                "descripcion": "", 
+                "fecha": "1/10/2020", 
+                "titulo": "TRUMP Y SU ESPOSA ENTRAN EN CUARENTENA", 
+                "descripcion": "“La Primera Dama y yo estamos esperando nuestros resultados del test”, tuiteó el presidente de EE.UU., tras confirmarse que su asesora Hope Hicks dio positivo a coronavirus. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "3/10/2020", 
+                "titulo": "CASO SWING: NUEVE DETENIDOS POR OBSTRUCCIÓN A LA JUSTICIA", 
+                "descripcion": "Fiscal Janny Sánchez-Porturas advirtió que Mirian Morales y Óscar Vásquez intentaron “manipular a testigos”. Ex altos funcionarios usarían cercanía con el mandatario. (POLÍTICA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "3/10/2020", 
+                "titulo": "CIERRE TOTAL DE MADRID POR 14 DÍAS PARA CONTENER REBROTE", 
+                "descripcion": "Las limitaciones a la movilidad serán aplicadas por ese tiempo y se prorrogarían según cómo evolucione la epidemia de Madrid, la más afectada de España por el coronavirus. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "4/10/2020", 
+                "titulo": "VIZCARRA: SERÍA “NATURAL” UN REBROTE DE COVID-19 EN PERÚ", 
+                "descripcion": "El presidente Vizcarra dijo que un eventual rebrote del COVID-19 en nuestro país “es natural” y calculó que entre 35% a 40% de la población peruana ya estuvo contagiada. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "6/10/2020", 
+                "titulo": "HUBO 80 NUEVOS DECESOS POR COVID-19 EN LAS ÚLTIMAS 24 HORAS", 
+                "descripcion": "Según la información del Minsa, el número acumulado de muertos por la pandemia de COVID-19 es de 32.914 personas. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "8/10/2020", 
+                "titulo": "CASO SWING: PODER JUDICIAL ORDENÓ LIBERACIÓN DE DETENIDOS", 
+                "descripcion": "La Primera Sala Penal de Apelaciones evaluó los recursos de apelación presentados por nueve exfuncionarios, entre ellos Karem Roca, Mirian Morales y Óscar Vásquez. Así, la sala ordenó la liberación de todas las personas detenidas preliminarmente por el Caso Richard Swing a causa de que no se cumpliría el criterio de proporcionalidad requerido para dicho propósito.\nDurante la audiencia, los detenidos tuvieron la posibilidad de manifestarse al respecto. “Yo siempre he mostrado mi mayor disposición a todo el proceso y lo seguiré haciendo porque eso es parte de mis valores (…)”, afirmó Mirian Morales en la primera parte de la audiencia.\nPor su parte, Óscar Vásquez dijo que la detención es “arbitraria” y que se trata de “una persecución política para dañar la imagen del presidente Martín Vizcarra”. (POLÍTICA)", 
+                "imagen": {
+                    "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YVJPMZBHIVD4PDQ4XZPBYBPAUQ.jpg",
+                    "caption": "La Primera Sala Penal de Apelaciones evaluó los recursos de apelación presentados por nueve exfuncionarios, entre ellos Karem Roca, Mirian Morales y Óscar Vásquez. Así, la sala ordenó la liberación de todas las personas detenidas preliminarmente por el Caso Richard Swing a causa de que no se cumpliría el criterio de proporcionalidad requerido para dicho propósito. Durante la audiencia, los detenidos tuvieron la posibilidad de manifestarse al respecto. “Yo siempre he mostrado mi mayor disposición a todo el proceso y lo seguiré haciendo porque eso es parte de mis valores (…)”, afirmó Mirian Morales en la primera parte de la audiencia. Por su parte, Óscar Vásquez dijo que la detención es “arbitraria” y que se trata de “una persecución política para dañar la imagen del presidente Martín Vizcarra”. (POLÍTICA)",
+                    "id": "YVJPMZBHIVD4PDQ4XZPBYBPAUQ"
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "8/10/2020", 
+                "titulo": "TAPIA: “NOS VAMOS CON UN POCO DE CORAJE”", 
+                "descripcion": "En el debut de la selección peruana por clasificatorias rumbo a Qatar 2022, el equipo bicolor igualó 1 a 1 con Paraguay de visita. (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "9/10/2020", 
+                "titulo": "REPORTAN 4.741 NUEVOS CASOS CONFIRMADOS DE COVID-19", 
+                "descripcion": "El Minsa informó que se elevó a 843.355 el número acumulado de casos positivos en el país. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "10/10/2020", 
+                "titulo": "ANUNCIAN INVERSIÓN DE S/ 551 MILLONES PARA SALUD MENTAL", 
+                "descripcion": "La titular del Minsa, Pilar Mazzetti, hizo el anuncio durante el seminario virtual internacional por el Día Mundial de la Salud Mental. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "11/10/2020", 
+                "titulo": "OBSERVARÁN LEY DE REPOSICIÓN DE PROFESORES SIN TÍTULO", 
+                "descripcion": "El mandatario Martín Vizcarra dijo que la norma aprobada por el Parlamento da un mal mensaje a los profesores, pues no se reconoce al que se esfuerza para las evaluaciones. (POLÍTICA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "12/10/2020", 
+                "titulo": "FARFÁN: “VAMOS A DARLO TODO POR ESOS TRES PUNTOS”", 
+                "descripcion": "Jefferson Farfán se pronunció en la antesala del Perú vs. Brasil. El delantero nacional prometió que el equipo luchará por sumar tres puntos en las Eliminatorias. (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "12/10/2020", 
+                "titulo": "NOTICIAS, CASOS Y MUERTES POR COVID-19 EN EL MUNDO", 
+                "descripcion": "EE.UU. alcanzó la cifra de 7.760.593 casos confirmados del SARS-CoV-2 y la de 214.765 fallecidos, según el recuento de la Universidad Johns Hopkins. (ACTUALIDAD)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "13/10/2020", 
+                "titulo": "PERÚ PERDIÓ 4-2 ANTE BRASIL POR CLASIFICATORIAS", 
+                "descripcion": "De local Perú no sostuvo la ventaja sobre el final del partido ante Brasil, que supo aprovechar un polémico penal sancionado por el árbitro chileno Julio Bascuñán.  (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "16/10/2020", 
+                "titulo": "PFIZER PLANEA PEDIR AUTORIZACIÓN PARA SU VACUNA", 
+                "descripcion": "“Pfizer solicitará autorización de uso de emergencia en EE.UU. luego que culmine la etapa de seguridad, en la tercera semana de noviembre”, dijo el CEO de la empresa. (CIENCIAS)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "17/10/2020", 
+                "titulo": "MACHU PICCHU REABRE PUERTAS AL TURISMO", 
+                "descripcion": "Los visitantes deberán registrarse en una plataforma virtual, que empezará a funcionar desde este lunes 19. Hasta el 15 de noviembre, la entrada será gratuita con un aforo del 30%. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "17/10/2020", 
+                "titulo": "MIRAFLORES: PERSONAS ESCRIBEN EN “MURO DE LA ESPERANZA”", 
+                "descripcion": "La Municipalidad de Miraflores presentó el “Muro de la Esperanza”, un espacio para que las personas expresen sus anhelos y esperanzas para el término de la pandemia.\nCon la frase “Yo quiero:…..”, que cada uno deberá completar, el municipio miraflorino permite a los ciudadanos señalar específicamente las ideas, intenciones y hasta deseos que cada quien guarda para cuando la pandemia del COVID-19 termine. (PERÚ)", 
+                "imagen": {
+                    "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/2NULGSNAC5CKHOLMPNVJ3E4FCA.jpg",
+                    "caption": "La Municipalidad de Miraflores presentó el “Muro de la Esperanza”, un espacio para que las personas expresen sus anhelos y esperanzas para el término de la pandemia. Con la frase “Yo quiero:…..”, que cada uno deberá completar, el municipio miraflorino permite a los ciudadanos señalar específicamente las ideas, intenciones y hasta deseos que cada quien guarda para cuando la pandemia del COVID-19 termine. (PERÚ)",
+                    "id": "2NULGSNAC5CKHOLMPNVJ3E4FCA"
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "18/10/2020", 
+                "titulo": "VACUNACIÓN CONTRA EL COVID-19 DEBE SER VOLUNTARIA", 
+                "descripcion": "El viceministro de Salud, Luis Suárez Ognio enfatizó que una persona tiene la facultad de decidir qué medicamento o sustancia recibe. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "18/10/2020", 
+                "titulo": "REPORTAN 57 DECESOS MÁS POR COVID-19 EN ÚLTIMAS 24 H.", 
+                "descripcion": "Según la información del Minsa, el número acumulado de muertos por la pandemia es de 33.759 personas. El número de contagios se elevó a 868.675. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "21/10/2020", 
+                "titulo": "MARTOS DECLARA SOBRE NUEVA MOCIÓN DE VACANCIA", 
+                "descripcion": "El primer ministro Walter Martos aseguró: “Lo que están haciendo es romper la Constitución. Es una tremenda irresponsabilidad”. Es el segundo pedido de vacancia contra Vizcarra. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "22/10/2020", 
+                "titulo": "MINSA INDICA 47 DECESOS POR CORONAVIRUS EN ÚLTIMAS 24 H.", 
+                "descripcion": "Según el Minsa, el número acumulado de muertos por la pandemia de COVID-19 es de 33.984 personas. El número de contagios se elevó a 879.876. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "22/10/2020", 
+                "titulo": "FRANCIA SUMA 41.000 CASOS DE CORONAVIRUS EN UN DÍA", 
+                "descripcion": "Es una cifra nunca alcanzada durante la pandemia. El primer ministro Jean Castex admitió que “la situación es grave”. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "23/10/2020", 
+                "titulo": "REGISTRAN MOVILIZACIÓN DE MÁS DE 450.000 PASAJEROS", 
+                "descripcion": "Las cifras son de julio a octubre. Durante los primeros tres meses de actividad se registraron un promedio diario de 44 vuelos nacionales y 6 vuelos internacionales, según LAP. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "26/10/2020", 
+                "titulo": "LAPADULA ESTÁ MÁS CERCA DE VESTIRSE DE BLANQUIRROJO", 
+                "descripcion": "El delantero de Benevento de Italia, Gianluca Lapadula, inició los trámites para obtener la nacionalización y estar apto para Ricardo Gareca con miras a las Eliminatorias. (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "28/10/2020", 
+                "titulo": "ANUNCIOS IMPORTANTES EN EL DÍA 227 DE LA EMERGENCIA", 
+                "descripcion": "Presidente Vizcarra amplió el estado de emergencia hasta el 30 de noviembre y dictó normas para el empleo formal. Cuestionó que bares pasen por restaurantes para reabrir.  (POLÍTICA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "29/10/2020", 
+                "titulo": "EMBOSCADA TERRORISTA DEJA POLICÍA Y MILITAR MUERTOS", 
+                "descripcion": "Ocurrió en el VRAEM, en plena operación de agentes del Ejército y PNP en Canayre, en el sector Banderito. Los efectivos fueron sorprendidos por explosión de minas terroristas. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "29/10/2020", 
+                "titulo": "ATACAN IGLESIA QUE DEJÓ TRES MUERTOS EN NIZA, FRANCIA", 
+                "descripcion": "Fue un migrante tunecino (21) que llegó a Francia a inicios de mes tras pasar por una isla  italiana. Irrumpió armado con un cuchillo en la basílica Notre-Dame, en Niza. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "30/10/2020", 
+                "titulo": "FALLECE ACTOR PERUANO RICARDO BLUME", 
+                "descripcion": "A los 87 años, el actor murió en un hospital de Ciudad de México y estuvo acompañado en sus últimos minutos de su hija y esposa. (LUCES)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "31/10/2020", 
+                "titulo": "SEAN CONNERY, FAMOSO JAMES BOND, MURIÓ A LOS 90 AÑOS", 
+                "descripcion": "El actor británico fue el primero en llevar al agente 007 al cine. Llevaba alejado de la pantalla grande desde 2003. (LUCES)", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
