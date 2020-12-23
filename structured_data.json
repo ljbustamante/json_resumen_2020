@@ -3329,9 +3329,9 @@
         },
         "historias": [
         {
-                "fecha": "/12/2020", 
-                "titulo": "", 
-                "descripcion": "", 
+                "fecha": "1/12/2020", 
+                "titulo": "SAGASTI SE REUNIÓ CON DELEGACIÓN DE LA CIDH", 
+                "descripcion": "El presidente Sagasti se reunió con una delegación de la Comisión Interamericana de Derechos Humanos, debido a las manifestaciones y represión durante la crisis política. (POLÍTICA)", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
@@ -3340,9 +3340,185 @@
                 "url": ""
             },
             {
-                "fecha": "/12/2020", 
-                "titulo": "", 
-                "descripcion": "", 
+                "fecha": "3/12/2020", 
+                "titulo": "GOBIERNO DA LUZ VERDE A TEATROS Y CASINOS", 
+                "descripcion": "La presidenta del Consejo de Ministros, Violeta Bermúdez, informó que se aprobó fase 4 de reactivación económica. También se amplía el aforo para los restaurantes. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "4/12/2020", 
+                "titulo": "REPORTAN 91 DECESOS POR COVID-19 EN ÚLTIMAS 24 H.", 
+                "descripcion": "Según el Minsa, el número acumulado de muertos por la pandemia de COVID-19 es de 36.195 personas. El número de contagios se elevó a 970.860. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "4/12/2020", 
+                "titulo": "CELEBRAN DEROGATORIA DE LEY DE PROMOCIÓN AGRARIA", 
+                "descripcion": "Los manifestantes se reunieron frente al Congreso y también protestaron para pedir justicia por el joven que falleció durante el paro agrario en Ica. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "5/12/2020", 
+                "titulo": "AYACUCHO FC SE CORONÓ CAMPEÓN DE LA FASE 2 DE LA LIGA 1", 
+                "descripcion": "El cuadro ayacuchano empató durante los 120 minutos (suplementario incluido) 1 a 1 con Sporting Cristal, y en la definición de penales se impusieron a los del Rímac por 3 a 2. (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "6/12/2020", 
+                "titulo": "MINCETUR: “ESTO NO SIGNIFICA CARTA BLANCA”", 
+                "descripcion": "El Ejecutivo autorizó la ampliación de la fase 4 de la reactivación económica, que contempla la apertura de cines, gimnasios, casinos, teatros, así como la ampliación de aforos en centros comerciales y restaurantes. (POLÍTICA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "7/12/2020", 
+                "titulo": "CLUBER ALIAGA RENUNCIA AL MINISTERIO DEL INTERIOR", 
+                "descripcion": "Aliaga juró como ministro el último miércoles, tras la renuncia de Rubén Vargas a dicho sector, en medio de cuestionamientos por el pase a retiro de 18 generales de la PNP (POLÍTICA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "7/12/2020", 
+                "titulo": "JOSÉ ELICE NAVARRO JURA COMO NUEVO MINISTRO DEL INTERIOR", 
+                "descripcion": "El ex oficial mayor del Congreso, quien se desempeñaba como secretario general del Despacho Presidencial de Francisco Sagasti, juró esta noche como ministro del Interior. (POLÍTICA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "7/12/2020", 
+                "titulo": "DESCUBREN TÚNEL CERCA DEL PENAL CASTRO CASTRO", 
+                "descripcion": "El comandante general PNP, César Cervantes informó que el túnel de 180 metros de largo iba a ser usado para una “posible fuga” del penal Castro Castro en Canto Grande (San Juan de Lurigancho) de presos extranjeros condenados por narcotráfico. \nSegún las primeras indicaciones de las autoridades, el túnel se habría estado construyendo durante poco más de un año. La Policía señaló que por ese camino clandestino se pretendía concretar una eventual fuga masiva de reclusos altamente peligrosos. Se habría contratado a obreros extranjeros para  la construcción de la vía subterránea. (PERÚ)", 
+                "imagen": {
+                    "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/P6DQ3K4OWZDJVKDG33RSXD7GEI.jpg",
+                    "caption": "El comandante general PNP, César Cervantes informó que el túnel de 180 metros de largo iba a ser usado para una “posible fuga” del penal Castro Castro en Canto Grande (San Juan de Lurigancho) de presos extranjeros condenados por narcotráfico. Según las primeras indicaciones de las autoridades, el túnel se habría estado construyendo durante poco más de un año. La Policía señaló que por ese camino clandestino se pretendía concretar una eventual fuga masiva de reclusos altamente peligrosos. Se habría contratado a obreros extranjeros para la construcción de la vía subterránea. (PERÚ)",
+                    "id": "P6DQ3K4OWZDJVKDG33RSXD7GEI"
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "8/12/2020", 
+                "titulo": "CIFRAS Y NOTICIAS EN EL DÍA 268 DEL ESTADO DE EMERGENCIA", 
+                "descripcion": "El Minsa informó que la cifra de casos confirmados de COVID-19 en el país se elevó a 975.116, mientras que el número de fallecidos subió a 36.324 a nivel nacional. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "8/12/2020", 
+                "titulo": "BASAKSEHIR ACUSÓ AL CUARTO ÁRBITRO DE RACISMO", 
+                "descripcion": "El PSG-Istanbul Basaksehir se suspendió por un caso de racismo. Pierre Webó acusó al cuarto árbitro Sebastian Coltescu, de haberle insultado de forma racista. El partido se paró. (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "9/12/2020", 
+                "titulo": "LIMA: REPORTAN TRUENOS, RAYOS Y RELÁMPAGOS", 
+                "descripcion": "Especialista de Senamhi informa que los fenómenos naturales en Chosica, Cieneguilla y Chancay están relacionados con las lluvias en Lima en los últimos días. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "9/12/2020", 
+                "titulo": "FALLECIÓ EL GRAN TENISTA PERUANO ALEJANDRO OLMEDO", 
+                "descripcion": "El destacado extenista arequipeño, ganador de Wimbledon y Australian Open, murió a los 84 años este miércoles a causa de un paro cardíaco. (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "9/12/2020", 
+                "titulo": "MURIÓ PAOLO ROSSI, EL CRACK ITALIANO", 
+                "descripcion": "El exdelantero italiano Paolo Rossi falleció este miércoles a los 64 años, informó el diario La Gazzetta dello Sport. “Murió derrotado por un mal inexorable”, reportaron desde Italia. (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "10/12/2020", 
+                "titulo": "LÍNEA 1 DEL METRO: SE DUPLICARÁ AFORO DE PASAJEROS", 
+                "descripcion": "El MTC indicó que, desde el lunes 14, podrán viajar alrededor de 512 personas en cada tren y ya no solo cerca de 200, como venía sucediendo debido a la pandemia. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "10/12/2020", 
+                "titulo": "CONGRESO APRUEBA ELIMINAR LA INMUNIDAD PARLAMENTARIA", 
+                "descripcion": "El pleno aprobó -103 a favor, 14 en contra y 3 abstenciones- el dictamen de la Comisión de Constitución que elimina la inmunidad parlamentaria. Como reforma constitucional, deberá ser ratificado en una siguiente legislatura con el respaldo de mínimo 87 votos. (POLÍTICA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "11/12/2020", 
+                "titulo": "EL 39.3% DE LIMEÑOS Y CHALACOS TIENEN ANTICUERPOS COVID-19", 
+                "descripcion": "El viceministro de Salud, Luis Suárez afirmó que hoy la mayor parte de población en Lima es susceptible a contraer el COVID-19, y no se puede hablar de una inmunidad de rebaño. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "11/12/2020", 
+                "titulo": "CONFIRMAN PRIMER CASO DE REINFECCIÓN POR COVID-19 EN PERÚ", 
+                "descripcion": "Fernando Donayre, médico infectólogo del Instituto Nacional de Salud, dijo que se confirmó el primer caso de reinfección por COVID-19 en el país. Es un niño de 6 años con leucemia. (PERÚ)", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
