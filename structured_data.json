@@ -1590,9 +1590,9 @@
         },
         "historias": [
         {
-                "fecha": "/7/2020", 
-                "titulo": "", 
-                "descripcion": "", 
+                "fecha": "1/7/2020", 
+                "titulo": "DESORDEN SE IMPONE EN LIMA TRAS LA CUARENTENA", 
+                "descripcion": "En el primer día sin cuarentena general, Lima mantuvo el caos de las últimas semanas. Desde las 6 a.m., desorden y largas colas ocurrieron en diversos puntos de la capital. (ESPECIAL)", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
@@ -1601,9 +1601,207 @@
                 "url": ""
             },
             {
-                "fecha": "/7/2020", 
-                "titulo": "", 
-                "descripcion": "", 
+                "fecha": "3/7/2020", 
+                "titulo": "CHOQUE DE BUSES METROPOLITANO DEJÓ MÁS DE 20 HERIDOS", 
+                "descripcion": "Un choque múltiple de tres buses del Metropolitano dejó más de 20 heridos. El hecho ocurrió en la cuadra 18 de la Av. Paseo de la República, exactamente en la Vía Expresa. (PAÍS)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "4/7/2020", 
+                "titulo": "CONFIRMAN 3.481 NUEVOS CONTAGIOS EN EL PERÚ", 
+                "descripcion": "El Minsa informó que se elevó a 299.080 el número de casos positivos de coronavirus en el país. Este anuncio se dio en el día 111 del estado de emergencia. (ESPECIAL)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "4/7/2020", 
+                "titulo": "MUERE EL MÚSICO PERUANO GERARDO MANUEL", 
+                "descripcion": "Fue fundador de numerosos grupos de rock y conductor del legendario programa \"Disco Club\", que empezó a transmitirse en los años 70. (LUCES)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "6/7/2020", 
+                "titulo": "FALLECE EL COMPOSITOR ITALIANO ENNIO MORRICONE", 
+                "descripcion": "Reconocido compositor italiano, falleció a los 91 años. Autor de más de 400 bandas sonoras de películas, el ganador del Óscar dejó de existir en una clínica de Roma, Italia. (LUCES)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "6/7/2020", 
+                "titulo": "EL MUNDO VUELVE A VER A LA MONA LISA", 
+                "descripcion": "Tras casi cuatro meses de cierre por la pandemia del COVID-19, el Museo del Louvre –el más visitado del planeta– reabrió sus puertas que se habían cerrado el 13 de marzo. (ESPECIAL)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "7/7/2020", 
+                "titulo": "ABREN PUENTE QUE UNE MIRAFLORES Y SAN ISIDRO", 
+                "descripcion": "Se inauguró el “Puente de la Amistad”, con la asistencia del alcalde de Lima, Jorge Muñoz, y Luis Molina, de Miraflores. No asistió el alcalde de San Isidro, Augusto Cáceres. (PAÍS)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "8/7/2020", 
+                "titulo": "VIZCARRA ANUNCIA ELECCIONES PARA EL 2021", 
+                "descripcion": "El presidente Martín Vizcarra convocó a elecciones generales para el 11 de abril de 2021. Así, ratificó su voluntad de finalizar el mandato que heredó de Pedro Pablo Kuczynski.\n\"Cumpliendo mi compromiso, porque soy una persona de palabra, muestro aquí al país el decreto supremo que dice convocar a elecciones generales para el 11 de abril del 2021 para la elección del Presidente, vicepresidentes, congresistas y representantes peruanos ante el Parlamento Andino\", señaló Vizcarra.\nEl mandatario hizo hincapié en que ningún elemento externo debería alterar las fechas previstas para el proceso electoral; ni siquiera la pandemia del coronavirus (COVID-19), que afecta letalmente el país; menos podía hacerlo alguna crisis política. Se debe mantener “la predictibilidad de las elecciones cada cinco años”, remató. (POLÍTICA)", 
+                "imagen": {
+                    "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JMGDL5MYD5ED3H2L3USMSUMK2U.jpg",
+                    "caption": "El presidente Martín Vizcarra convocó a elecciones generales para el 11 de abril de 2021. Así, ratificó su voluntad de finalizar el mandato que heredó de Pedro Pablo Kuczynski.“Cumpliendo mi compromiso, porque soy una persona de palabra, muestro aquí al país el decreto supremo que dice convocar a elecciones generales para el 11 de abril del 2021 para la elección del Presidente, vicepresidentes, congresistas y representantes peruanos ante el Parlamento Andino, señaló Vizcarra.El mandatario hizo hincapié en que ningún elemento externo debería alterar las fechas previstas para el proceso electoral; ni siquiera la pandemia del coronavirus (COVID-19), que afecta letalmente el país; menos podía hacerlo alguna crisis política. Se debe mantener “la predictibilidad de las elecciones cada cinco años”, remató. (POLÍTICA)",
+                    "id": "JMGDL5MYD5ED3H2L3USMSUMK2U"
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "9/7/2020", 
+                "titulo": "PERÚ REGISTRA 316.448 CASOS CONFIRMADOS DE COVID-19", 
+                "descripcion": "Se cumplen 116 días de estado de emergencia para combatir el coronavirus. Es el octavo día de cuarentena focalizada. Perú registra 316.448 casos en todo el país. (ESPECIAL)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "11/7/2020", 
+                "titulo": "DISNEY WORLD REABRE EN PLENO AUMENTO DE CONTAGIOS", 
+                "descripcion": "Dos parques de entretenimiento del complejo Disney World reabrieron en Orlando, después de cuatro meses de cierre por la pandemia de coronavirus. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "12/7/2020", 
+                "titulo": "MINSA REPORTA 188 NUEVOS DECESOS EN EL PERÚ", 
+                "descripcion": "El Ministerio de Salud informó este domingo que la cifra de muertos en el país ascendía a 11.870.  (ESPECIAL)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "13/7/2020", 
+                "titulo": "MININTER PRESENTÓ EL MAPA DE CALOR DE DELINCUENCIA", 
+                "descripcion": "El ministro del Interior, Gastón Rodríguez, informó que, como parte del Plan Fortaleza 2020, se implementó el mapa de calor sobre incidencia delictiva. (PAÍS)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "15/7/2020", 
+                "titulo": "VIZCARRA CAMBIA A CASI TODO EL GABINETE EN PLENA PANDEMIA", 
+                "descripcion": "El mandatario renovó a 11 de sus 18 ministros -entre ellos Salud- en lo que es el segundo cambio al frente de esa cartera desde que irrumpió hace cuatro meses la pandemia. (POLÍTICA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "16/7/2020", 
+                "titulo": "NO HABRÁ NUEVA CUARENTENA PESE AL AUMENTO DE CASOS", 
+                "descripcion": "Vizcarra dijo que no era necesario decretar un nuevo confinamiento por la pandemia de coronavirus en el país, pese al aumento del número de contagios y muertos. (POLÍTICA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "19/7/2020", 
+                "titulo": "AREQUIPA: MUJER PERSIGUE AL PRESIDENTE PARA SER ESCUCHADA", 
+                "descripcion": "En el momento que el presidente Vizcarra se retiraba de su vista de inspección al Hospital Honorio Delgado de Arequipa, donde los médicos le pidieron su ayuda para conseguir material de protección, duchas, etc., una humilde mujer apareció llorosa y, tras darse cuenta de que Vizcarra abandonaba el nosocomio, corrió detrás del auto presidencial sin ser escuchada ni atendida por el gobernante. \nAl grito de: “¡Señor presidente! Tiene que ver las carpas”, la mujer siguió al auto por varios metros sin resultados. “Porque son así, porque el presidente no va a ver las carpas, por favor... mucha gente se está contagiando, porque no apoyan, tengo a mi esposo, por favor invítenlo a ver las carpas (de pacientes COVID-19)”, indicaba la mujer entre lágrimas y a vista de muchas personas. El hecho quedó registrado en videos que rápidamente se viralizaron en redes sociales. (PAÍS)", 
+                "imagen": {
+                    "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/PTEVBIASPZHJDJSLAGCNJMTSJ4.jpg",
+                    "caption": "En el momento que el presidente Vizcarra se retiraba de su vista de inspección al Hospital Honorio Delgado de Arequipa, donde los médicos le pidieron su ayuda para conseguir material de protección, duchas, etc., una humilde mujer apareció llorosa y, tras darse cuenta de que Vizcarra abandonaba el nosocomio, corrió detrás del auto presidencial sin ser escuchada ni atendida por el gobernante. Al grito de: “¡Señor presidente! Tiene que ver las carpas”, la mujer siguió al auto por varios metros sin resultados. “Porque son así, porque el presidente no va a ver las carpas, por favor... mucha gente se está contagiando, porque no apoyan, tengo a mi esposo, por favor invítenlo a ver las carpas (de pacientes COVID-19)”, indicaba la mujer entre lágrimas y a vista de muchas personas. El hecho quedó registrado en videos que rápidamente se viralizaron en redes sociales. (PAÍS)",
+                    "id": "PTEVBIASPZHJDJSLAGCNJMTSJ4"
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "22/7/2020", 
+                "titulo": "GOBIERNO ACTUALIZA A 17.455 LOS DECESOS POR CORONAVIRUS", 
+                "descripcion": "La ministra de Salud, Pilar Mazzetti afirmó que se añadieron 3.688 muertes al recuento diario del sector luego de un análisis de datos. (ESPECIAL)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "24/7/2020", 
+                "titulo": "CHINA ORDENA CERRAR CONSULADO DE EE.UU.", 
+                "descripcion": "China cierra el consulado norteamericano en Chengdu, tres días luego que Washington hiciera lo propio con el consulado chino en Houston. Ambos se acusan de espionaje. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "26/7/2020", 
+                "titulo": "MUERE OLIVIA DE HAVILLAND, ÚLTIMA ESTRELLA DE HOLLYWOOD", 
+                "descripcion": "Era la última representante de la edad dorada de Hollywood, De Havilland murió a los 104 años. Fue nominada a cinco premios Óscar y lo ganó dos veces. (LUCES)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "28/7/2020", 
+                "titulo": "EL ÚLTIMO MENSAJE PRESIDENCIAL DE VIZCARRA", 
+                "descripcion": "En el mensaje por 28 de julio ante el Congreso, el presidente Martín Vizcarra llamó a unirse al Pacto Perú a los escépticos parlamentarios. (POLÍTICA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "31/7/2020", 
+                "titulo": "PRORROGAN ESTADO DE EMERGENCIA HASTA EL 31 DE AGOSTO", 
+                "descripcion": "El Ejecutivo extendió hasta el 31 de agosto el estado de emergencia y la cuarentena focalizada, a través de un decreto supremo. (ESPECIAL)", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
