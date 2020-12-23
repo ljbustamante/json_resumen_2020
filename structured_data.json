@@ -1819,9 +1819,9 @@
         },
         "historias": [
         {
-                "fecha": "/8/2020", 
-                "titulo": "", 
-                "descripcion": "", 
+                "fecha": "1/8/2020", 
+                "titulo": "OMS ADVIERTE QUE PANDEMIA “SERÁ MUY LARGA”", 
+                "descripcion": "El comité de emergencia de la OMS advirtió también sobre “el peligro de que se afloje la respuesta en un contexto de presiones socioeconómicas”. (MUNDO)", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
@@ -1830,9 +1830,306 @@
                 "url": ""
             },
             {
-                "fecha": "/8/2020", 
-                "titulo": "", 
-                "descripcion": "", 
+                "fecha": "2/8/2020", 
+                "titulo": "GOBIERNO PERUANO ESPERA CERRAR ACUERDOS CON LABORATORIOS", 
+                "descripcion": "Ministro de RR.EE., Mario López Chávarri, informó que se negocia con 5 de los 10 laboratorios del mundo que tienen un gran avance en desarrollo de la vacuna contra el COVID-19. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "3/8/2020", 
+                "titulo": "JUAN CARLOS I EN PROBLEMAS POR ESCÁNDALO DE CORRUPCIÓN", 
+                "descripcion": "La decisión del rey emérito de irse de España ocurre en medio de investigaciones de supuestos fondos en paraísos fiscales, los mismos que habría recibido de Arabia Saudita. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "4/8/2020", 
+                "titulo": "TERRIBE EXPLOSIÓN EN BEIRUT DEJA DECENAS DE MUERTOS", 
+                "descripcion": "La primera explosión lanzó restos al aire y un humo denso y oscuro, con destellos de fuegos artificiales. Unos 35 segundos después, ocurrió una segunda explosión masiva. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "5/8/2020", 
+                "titulo": "REDES SOCIALES CASTIGAN CUENTAS DE TRUMP POR DESINFORMAR", 
+                "descripcion": "Twitter anunció que bloqueó temporalmente la cuenta oficial de Trump, debido a un tuit que replicaba la idea de que los niños son “casi inmunes” al COVID-19. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "7/8/2020", 
+                "titulo": "HINCHAS DE LA U SE AGLOMERAN CERCA DEL ESTADIO NACIONAL", 
+                "descripcion": "En el primer partido del fútbol peruano, tras casi cinco meses de paralización por la pandemia, la U, que celebraba su 96 aniversario, se enfrentaba al Cantolao. A poco del partido, un centenar de personas con camisetas cremas se hicieron presentes en los exteriores del recinto deportivo. \nEra el reinicio de la Liga 1, pero por la pandemia del COVID-19 no estaba permitido ninguna  reunión. Los hinchas cremas, incluso muchos sin mascarillas, llegaron a las calles aledañas del estadio de José Díaz con banderolas, bocinas y cánticos, no respetaron ninguna distancia social. Usaron incluso fuegos artificiales y hasta quemaron bombardas. \nEn las redes sociales, los usuarios denunciaron estos hechos irresponsables. Algunos agentes policiales trataron de contenerlos y dispersarlos, pero les fue imposible. (DT)", 
+                "imagen": {
+                    "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/C7EDLNWR2RHK3MANFYXE75D5AY.jp",
+                    "caption": "En el primer partido del fútbol peruano, tras casi cinco meses de paralización por la pandemia, la U, que celebraba su 96 aniversario, se enfrentaba al Cantolao. A poco del partido, un centenar de personas con camisetas cremas se hicieron presentes en los exteriores del recinto deportivo. Era el reinicio de la Liga 1, pero por la pandemia del COVID-19 no estaba permitido ninguna  reunión. Los hinchas cremas, incluso muchos sin mascarillas, llegaron a las calles aledañas del estadio de José Díaz con banderolas, bocinas y cánticos, no respetaron ninguna distancia social. Usaron incluso fuegos artificiales y hasta quemaron bombardas. En las redes sociales, los usuarios denunciaron estos hechos irresponsables. Algunos agentes policiales trataron de contenerlos y dispersarlos, pero les fue imposible. (DT)",
+                    "id": "C7EDLNWR2RHK3MANFYXE75D5AY"
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "7/8/2020", 
+                "titulo": "IPD SUSPENDIÓ FECHA 7 DE LA LIGA 1", 
+                "descripcion": "La medida responde a los incidentes de hinchas cremas a las afueras del Estadio Nacional. Ante esa presencia masiva de gente, el IPD decidió suspender la jornada 7 de la Liga 1. (PERÚ/DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "9/8/2020", 
+                "titulo": "CIFRAS Y NOTICIAS EN EL DÍA 147 DEL ESTADO DE EMERGENCIA", 
+                "descripcion": "Según informó el Minsa, el total de casos positivos de coronavirus se elevó en la víspera a 471.012, mientras que la cifra de fallecidos llegó a 20.844. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "10/8/2020", 
+                "titulo": "COVID-19 SIGUE EN ALZA EN ESPAÑA", 
+                "descripcion": "Desde el pasado jueves fallecieron por coronavirus 65 personas en España, 38 de ellas sólo en Aragón, según últimas cifras oficiales. Hubo 1.486 nuevos casos en las últimas 24 h. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "11/8/2020", 
+                "titulo": "PUTIN DICE TENER LA PRIMERA VACUNA CONTRA EL COVID-19", 
+                "descripcion": "“Esta mañana, por primera vez en el mundo, se ha registrado una vacuna contra el nuevo coronavirus”, dijo Putin durante una videoconferencia retransmitida por TV. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "12/8/2020", 
+                "titulo": "VIZCARRA ANUNCIÓ VOLVER AL TOQUE DE QUEDA DOMINICAL", 
+                "descripcion": "“Tenemos que retroceder un paso en las medidas que estábamos liberando. A partir de este domingo, se vuelve a la inmovilización obligatoria a nivel nacional”, lamentó el presidente Vizcarra. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "13/8/2020", 
+                "titulo": "DESIGNAN A NUEVA FISCAL EN EL EQUIPO ESPECIAL LAVA JATO", 
+                "descripcion": "En una resolución de la Fiscalía de la Nación, se nombró a Betty Shirley Zúñiga Gómez para el Equipo Especial que coordina el fiscal Rafael Vela. (POLÍTICA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "14/8/2020", 
+                "titulo": "NOTICIAS, CASOS Y MUERTOS POR COVID-19 EN EL MUNDO", 
+                "descripcion": "El mundo superó los 750.000 muertos por coronavirus, con un firme avance en América Latina, donde México y Perú traspasaron la barrera del medio millón de contagios. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "15/8/2020", 
+                "titulo": "REPORTAN 219 NUEVOS DECESOS POR COVID-19", 
+                "descripcion": "El Minsa informó que la cifra de muertos llegó a 26.075. Además, la entidad precisó que el número de contagios se elevó a 525.803. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "16/8/2020", 
+                "titulo": "PAGO POR VACUNAS SE CONCRETARÁ ANTES DE FIN DE MES", 
+                "descripcion": "El primer ministro Walter Martos aseguró el pago de US$ 20 millones con la iniciativa Covax Facility para asegurar vacunas anti COVID-19. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "17/8/2020", 
+                "titulo": "GUERRERO SUFRIÓ LESIÓN EN LA RODILLA DERECHA", 
+                "descripcion": "Paolo Guerrero será sometido a una operación por un grave problema en el ligamento cruzado de la rodilla derecha, según la prensa brasileña. (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "18/8/2020", 
+                "titulo": "ECONOMÍA PERUANA ESTÁ OPERANDO AL 90% DE SU CAPACIDAD", 
+                "descripcion": "El ministro de la Producción, José Salardi, informó esto hacia el final de la fase tres del reinicio de actividades. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "19/8/2020", 
+                "titulo": "NOTICIAS, CASOS Y MUERTOS POR COVID-19 EN EL MUNDO", 
+                "descripcion": "Más de 22 millones de casos confirmados y al menos 779 mil muertes son los números de la pandemia del COVID-19 hasta la fecha. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "20/8/2020", 
+                "titulo": "PERU: EL 72% DE MICRONEGOCIOS SOBREVIVE A LA PANDEMIA", 
+                "descripcion": "Una encuesta de Financiera Confianza también reveló que el 21% de los empresarios optó por diversificar su negocio ante el cierre decretado por el Gobierno. (ECONOMÍA)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "21/8/2020", 
+                "titulo": "CIFRAS Y NOTICIAS EN EL DÍA 159 DEL ESTADO DE EMERGENCIA", 
+                "descripcion": "El Perú llegó a los 567.059 casos confirmados de COVID-19 y a las 27.034 muertes por esa enfermedad, según cifras del Minsa. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "22/8/2020", 
+                "titulo": "LOS OLIVOS: OPERATIVO DEJA 13 FALLECIDOS Y 23 DETENIDOS", 
+                "descripcion": "El local Thomas Restobar se convirtió en un infierno cuando, tras organizarse una fiesta prohibida por ley, la Policía intervino con un saldo mortal irreparable. Según la Policía, en el local ubicado en Los Olivos, se encontraban reunidas unas 120 personas. Era una reunión ilegal, bajo las nuevas normas aplicadas por el Gobierno ante la pandemia del COVID-19. \nLa Policía explicó, en una primera instancia, que un grupo intentó huir del recinto, lo que provocó una estampida de gente que encontró la puerta de salida cerrada. Las víctimas fallecieron por asfixia.\nSe detuvo a 23 personas involucradas en los hechos, más de la mitad de ellas resultaron ser positivas de coronavirus. (PERÚ)", 
+                "imagen": {
+                    "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/RSY3XU3M2BG3ZGAP3RN2WIU2B4.jpg",
+                    "caption": "El local Thomas Restobar se convirtió en un infierno cuando, tras organizarse una fiesta prohibida por ley, la Policía intervino con un saldo mortal irreparable. Según la Policía, en el local ubicado en Los Olivos, se encontraban reunidas unas 120 personas. Era una reunión ilegal, bajo las nuevas normas aplicadas por el Gobierno ante la pandemia del COVID-19. La Policía explicó, en una primera instancia, que un grupo intentó huir del recinto, lo que provocó una estampida de gente que encontró la puerta de salida cerrada. Las víctimas fallecieron por asfixia. Se detuvo a 23 personas involucradas en los hechos, más de la mitad de ellas resultaron ser positivas de coronavirus. (PERÚ) ",
+                    "id": "RSY3XU3M2BG3ZGAP3RN2WIU2B4"
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "23/8/2020", 
+                "titulo": "ONCE DE LOS 13 FALLECIDOS EN RESTOBAR TENÍAN COVID-19", 
+                "descripcion": "En un comunicado, el Ministerio Público detalló que debido a tal situación sanitaria las necropsias se harán este lunes 24, con todos los procedimientos de bioseguridad. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "24/8/2020", 
+                "titulo": "CIFRAS Y NOTICIAS EN EL DÍA 162 DEL ESTADO DE EMERGENCIA", 
+                "descripcion": "El Minsa informó que el Perú llegó a los 594.326 casos positivos de coronavirus y a las 27.663 muertes por esa enfermedad. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "25/8/2020", 
+                "titulo": "HINCHAS DE BARCELONA PROTESTAN POR SALIDA DE MESSI", 
+                "descripcion": "Tras los rumores que apuntan a su salida del club catalán, los fanáticos culés no dudaron en expresar su molestia y descontento con el manejo del presidente Josep María Bartomeu. (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "27/8/2020", 
+                "titulo": "CON BAILE Y MÚSICA DESPIDEN A VÍCTIMA DE THOMAS RESTOBAR", 
+                "descripcion": "Familiares y amigos bailaron alrededor de la tumba de Alison Montañez Sudario y sobre los nichos del cementerio. Muchos de ellos no portaban mascarilla. (PERÚ)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "28/8/2020", 
+                "titulo": "MUERE EL ACTOR NORTEAMERICANO CHADWICK BOSEMAN", 
+                "descripcion": "El actor popular por interpretar a “Pantera Negra” (Marvel) dejó de existir a los 43 años, tras complicaciones con el cáncer de colon que padecía. (MUNDO)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "28/8/2020", 
+                "titulo": "FLORES SERÁ OPERADO TRAS CHOQUE EN UN PARTIDO DE LA MSL", 
+                "descripcion": "Parecía solo un choque fuerte el martes 25, pero Edison Flores había sufrido pequeñas facturas faciales que requerían una cirugía. Así lo confirmaron desde su club el DC United. (DT)", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "28/8/2020", 
+                "titulo": "GOBIERNO EXTENDIÓ ESTADO DE EMERGENCIA EN EL PERÚ", 
+                "descripcion": "Hasta el 30 de septiembre e incluirá también una cuarentena focalizada en cuatro regiones (Cusco, Moquegua, Puno y Tacna) y en 46 provincias de otros 14 departamentos. (PERÚ) ", 
+                "imagen": {
+                    "url": "", 
+                    "caption": "", 
+                    "id": ""
+                }, 
+                "url": ""
+            },
+            {
+                "fecha": "30/8/2020", 
+                "titulo": "NOTICIAS, CASOS Y MUERTES POR COVID-19 EN EL MUNDO", 
+                "descripcion": "Hoy deja más de 24,9 millones de contagiados y al menos 841 mil fallecidos en más de 180 países del orbe, según el recuento independiente de la Universidad Johns Hopkins. (MUNDO)", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
