@@ -152,7 +152,7 @@
             {
                 "fecha": "24/1/2020", 
                 "titulo": "SOLIDARIDAD PERUANA ANTE LA TRAGEDIA DE VES", 
-                "descripcion": "Tras la deflagración provocada por un camión cisterna de gas en Villa El Salvador el día de ayer 23 de enero, las víctimas mortales aumentaron debido a la gravedad de sus quemaduras. Hasta  el momento hay 10 muertos y más de 40 heridos con quemaduras. \n Al dolor e indignación por esta tragedia se sumó también la solidaridad de miles de personas, entre civiles y miembros de la Policía Nacional y Fuerzas Armadas, que han acudido a los hospitales del Ministerio de Salud y del Seguro Social (Essalud) con la intención de donar sangre y plaquetas para los afectados. (NACIONAL)", 
+                "descripcion": "Tras la deflagración provocada por un camión cisterna de gas en Villa El Salvador el día de ayer 23 de enero, las víctimas mortales aumentaron debido a la gravedad de sus quemaduras. El recuento final fue de más de 20 muertos y decenas de heridos con quemaduras. \n Al dolor e indignación por esta tragedia se sumó también la solidaridad de miles de personas, entre civiles y miembros de la Policía Nacional y Fuerzas Armadas, que han acudido a los hospitales del Ministerio de Salud y del Seguro Social (Essalud) con la intención de donar sangre y plaquetas para los afectados. (NACIONAL)", 
                 "imagen": {
                     "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/AQFL74UAY5EDBJOUSD4OO6S4KQ.jpg",
                     "caption": "Tras la deflagración provocada por un camión cisterna de gas en Villa El Salvador el día de ayer 23 de enero, las víctimas mortales aumentaron debido a la gravedad de sus quemaduras. El recuento final fue de más de 20 muertos y decenas de heridos con quemaduras. Al dolor e indignación por esta tragedia se sumó también la solidaridad de miles de personas, entre civiles y miembros de la Policía Nacional y Fuerzas Armadas, que han acudido a los hospitales del Ministerio de Salud y del Seguro Social (Essalud) con la intención de donar sangre y plaquetas para los afectados. (NACIONAL)",
@@ -808,7 +808,7 @@
             {
                 "fecha": "31/3/2020", 
                 "titulo": "LAS CLASES SE INICIAN EL 6 DE ABRIL A DISTANCIA", 
-                "descripcion": "El año escolar se iniciará este lunes 6 de abril a escala nacional con educación a distancia. Las clases presenciales en colegios públicos y privados comenzarán el 4 de mayo. (ESPECIAL)", 
+                "descripcion": "Se dio a conocer que el año escolar se iniciaría el lunes 6 de abril a escala nacional con educación a distancia. Las clases presenciales en colegios públicos y privados comenzarían el 4 de mayo. (ESPECIAL)", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
@@ -1015,7 +1015,7 @@
             {
                 "fecha": "17/4/2020", 
                 "titulo": "LIMA: UN CREMATORIO AL LÍMITE", 
-                "descripcion": "El crematorio de Lima recibe el triple de cadáveres debido a la pandemia del COVID-19. Pese a los esfuerzos de su personal, su capacidad operativa ha sido sobrepasada. \n A Henry Gonzales le cuesta encontrar las palabras para describir lo que está viendo en estos días. En sus más de veinte años de experiencia cremando cadáveres, nunca tuvo al frente algo parecido. \n Si antes de la pandemia atendía en promedio a 10 o 12 cuerpos por día, ahora recibe el triple. Solo hace dos días, incineró a 35 y tuvo que pedir a los hospitales que ya no le enviaran más. Al otro lado del teléfono le dijeron que había 90 en espera. (ESPECIAL)", 
+                "descripcion": "El crematorio de Lima recibe el triple de cadáveres debido a la pandemia del COVID-19. Pese a los esfuerzos de su personal, su capacidad operativa ha sido sobrepasada. \n A Henry Gonzales le cuesta encontrar las palabras para describir lo que está viendo en estos días. En sus más de veinte años de experiencia cremando cadáveres, nunca tuvo al frente algo parecido. \n Si antes de la pandemia atendía en promedio a 10 o 12 cuerpos por día, ahora recibe el triple. Solo hace dos días, incineró a 35 y tuvo que pedir a los hospitales que ya no le enviaran más. Al otro lado del teléfono le dijeron que había 90 en espera.", 
                 "imagen": {
                     "url": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/HTVOZHQBFVAIBOJVKN3B75HSPI.jpg",
                     "caption": "El crematorio de Lima recibe el triple de cadáveres debido a la pandemia del COVID-19. Pese a los esfuerzos de su personal, su capacidad operativa ha sido sobrepasada. A Henry Gonzales le cuesta encontrar las palabras para describir lo que está viendo en estos días. En sus más de veinte años de experiencia cremando cadáveres, nunca tuvo al frente algo parecido. Si antes de la pandemia atendía en promedio a 10 o 12 cuerpos por día, ahora recibe el triple. Solo hace dos días, incineró a 35 y tuvo que pedir a los hospitales que ya no le enviaran más. Al otro lado del teléfono le dijeron que había 90 en espera. ",
@@ -1026,7 +1026,7 @@
             {
                 "fecha": "18/4/2020", 
                 "titulo": "PERÚ: AUN NO HAY FECHA PARA RETORNO A LAS AULAS", 
-                "descripcion": "El presidente Vizcarra anunció la suspensión indefinida de clases presenciales en los colegios para prevenir el contagio. (ESPECIAL)", 
+                "descripcion": "El presidente Vizcarra anunció la suspensión indefinida de clases presenciales en los colegios para prevenir el contagio.", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
@@ -1037,7 +1037,7 @@
             {
                 "fecha": "20/4/2020", 
                 "titulo": "EL PETRÓLEO COTIZA EN NEGATIVO", 
-                "descripcion": "La cotización del barril de petróleo intermedio de Texas cayó drásticamente a menos de US$1 desde su precio el viernes previo (US$18,27). (ESPECIAL)", 
+                "descripcion": "La cotización del barril de petróleo intermedio de Texas cayó drásticamente a menos de US$1 desde su precio el viernes previo (US$18,27).", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
@@ -1048,7 +1048,7 @@
             {
                 "fecha": "21/4/2020", 
                 "titulo": "HUYEN DE LIMA POR HAMBRE Y DESESPERACIÓN", 
-                "descripcion": "Cientos de personas se desplazaron por la Vía Expresa rumbo a la Panamericana Norte. Esta escena se repitió en carreteras y vías troncales. (ESPECIAL)", 
+                "descripcion": "Cientos de personas se desplazaron por la Vía Expresa rumbo a la Panamericana Norte. Esta escena se repitió en carreteras y vías troncales.", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
@@ -1070,7 +1070,7 @@
             {
                 "fecha": "23/4/2020", 
                 "titulo": "CUARENTENA SE AMPLÍA HASTA EL 10 DE MAYO", 
-                "descripcion": "El avance del coronavirus obligó al Ejecutivo a prolongar la emergencia por tercera vez. Van 20.914 infectados y 572 fallecidos. (ESPECIAL)", 
+                "descripcion": "El avance del coronavirus obligó al Ejecutivo a prolongar la emergencia por tercera vez. Van 20.914 infectados y 572 fallecidos.", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
@@ -1092,7 +1092,7 @@
             {
                 "fecha": "24/4/2020", 
                 "titulo": "COLEGIOS PRIVADOS REDUCEN PENSIONES DEBIDO A PANDEMIA", 
-                "descripcion": "En algunos centros educativos, las reducciones varían entre 12% y 30%, y hasta 50% para casos particulares. (ESPECIAL)", 
+                "descripcion": "En algunos centros educativos, las reducciones varían entre 12% y 30%, y hasta 50% para casos particulares.", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
@@ -1103,7 +1103,7 @@
             {
                 "fecha": "25/4/2020", 
                 "titulo": "BICICLETAS Y CICLOVÍAS CONTRA EL COVID-19", 
-                "descripcion": "El Perú es el noveno país del mundo en declarar la bicicleta un medio para frenar el contagio del coronavirus. (ESPECIAL)", 
+                "descripcion": "El Perú es el noveno país del mundo en declarar la bicicleta un medio para frenar el contagio del coronavirus.", 
                 "imagen": {
                     "url": "", 
                     "caption": "", 
@@ -3528,4 +3528,4 @@
             }
         ]
     }
-}
+  }
